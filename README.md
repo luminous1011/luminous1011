@@ -1,26 +1,20 @@
-<style>
-    img{width:436px;}
-</style>
-
 ## 👋 Hey Guys I'm luminous1011.
 
-- 👾 My Blog : [luminous.com](http://47.93.60.137)&nbsp;&nbsp;&nbsp;📊 Visitor : <img src="https://profile-counter.glitch.me/luminous1011/count.svg" width="140"/>
-- 🌱 目前就职于上海。 
-- 🌱 渴望并相信着美好的事情将会发生，代码改变世界可能很难，但做一些有趣的事情可能正好。 
+- 👾 我的博客 : [http://47.93.60.137](http://47.93.60.137)&nbsp;&nbsp;&nbsp; [👀](https://emojipedia.org/eyes/)访问量 : <img src="https://profile-counter.glitch.me/luminous1011/count.svg" width="140"/>
+- 🌱 从事低技术含量的办公室人员，目前就职于上海。 
+- 💗 热爱世间万物，有最爱，有例外。 
 
 
 ### Github 概览数据
-![GithubStats](https://github-readme-stats.vercel.app/api?username=luminous1011&show_icons=true&theme=dark&count_private=true)
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=luminous1011&show_icons=true&theme=dark&count_private=true" width="436"/>
+</div>
+
 
 ### Github 语言数据
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luminous1011&theme=dark&layout=compact)
-
-
-
-<style>
-    img{width:436px;}
-</style>
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminous1011&theme=dark&layout=compact" width="436"/>
+</div>
 
 
 
