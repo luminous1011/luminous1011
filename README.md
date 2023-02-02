@@ -4,15 +4,10 @@
 - 🌱 目前就职于上海。 
 - 🌱 渴望并相信着美好的事情将会发生，代码改变世界可能很难，但做一些有趣的事情可能正好。 
 
+
 ### Github 概览数据
-<div><img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=luminous1011&show_icons=true&theme=dracula" /></div>
-
-
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luminous1011&theme=dark&layout=compact)
 
 ### 语言数据
-<div><img align="right"  height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luminous1011&show_icons=true&layout=compact&theme=dracula"/></div>
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luminous1011&theme=dark&layout=compact)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luminous1011&theme=dark&layout=compact)
 
