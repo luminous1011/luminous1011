@@ -1,3 +1,7 @@
+<style>
+    img{width:436px;}
+</style>
+
 ## 👋 Hey Guys I'm luminous1011.
 
 - 👾 My Blog : [luminous.com](http://47.93.60.137)&nbsp;&nbsp;&nbsp;📊 Visitor : <img src="https://profile-counter.glitch.me/luminous1011/count.svg" width="140"/>
